@@ -1,5 +1,3 @@
-# starter
-
 <!DOCTYPE html>
 <html>
 
